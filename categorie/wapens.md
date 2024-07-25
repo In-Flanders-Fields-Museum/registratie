@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Wapens
-parent: Objectcategorieën
+parent: objectcategorieën
 nav_order: 1
 ---
