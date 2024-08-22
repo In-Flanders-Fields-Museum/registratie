@@ -32,6 +32,7 @@ nav_order: 2
 | Verwerving methode (VW)*                | [Term_verwervingsmethode](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Term_verwervingsmethode)                   |                                                                        |
 | Verwerving bron (VN)*                   | [Naam_verwervingsbron](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Naam_verwervingsbron)                         |                                                                        |
 | Verwerving datum (VD)*                  | [Waarde_verwervingsdatum](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Waarde_verwervingsdatum)                   |                                                                        |
+
 * verplichte velden <br>
 ** van toepassing bij foto's uit een fotoalbum/collectie
 
