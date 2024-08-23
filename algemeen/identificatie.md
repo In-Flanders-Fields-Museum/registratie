@@ -37,5 +37,14 @@ nav_order: 1
 
 Bij records die deel uitmaken van een geheel (vb. objectensembles, afbeeldingen op eenzelfde pagina in een fotoalbum, interviews uit eenzelfde project, ...) wordt het objectnummer aangevuld met .XX, om aan te tonen dat deze records samenhoren (*vb IFF 000001.01*).
 
+## **Titel**
+
+Het veld ['titel'](https://www.projectcest.be/wiki/Publicatie:Invulboek_objecten/Veld/Titel) documenteert de naam van het object, toegekend door zijn vervaardiger. Noteer hier de originele, populaire en/of toegekende titel. Indien er geen toegekende titel bestaat, geef een korte omschrijving van het object, document of van de inhoud van een foto, video, audiofragment.
+
+Schrijfinstructies:
+- begin de titel met een hoofdletter, tenzij anders vermeld op het object
+- gebruik geen inleidend lidwoord, tenzij het een onderdeel is van de originele titel
+- gebruik geen punt op het einde van de titel
+
 
 
