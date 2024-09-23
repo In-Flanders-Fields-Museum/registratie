@@ -5,33 +5,32 @@ parent: Materiaalspecifieke Registratie
 nav_order: 4
 ---
 
-
-|        Invulfiche interview        |                                    |                                 |                                                                                                                                                    |
-|:----------------------------------:|:----------------------------------:|---------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
-| VELD AXIELL                        | INHOUD                             | REGISTRATIE COLLECTIEMEDEWERKER | INPUT ONDERZOEKER                                                                                                                                  |
-| Objectnummer                       | IFFDBXXXXXX                        | X                               |                                                                                                                                                    |
-| Objectnaam                         | videofragment/geluidsfragment      | X                               |                                                                                                                                                    |
-| Titel                              |                                    |                                 | Interview met Naam Achternaam, X                                                                                                                   |
-| Beschrijving                       |                                    |                                 | X                                                                                                                                                  |
-| Vervaardiger                       |                                    |                                 | Achternaam, Voornaam<br> Achternaam, Voornaam                                                                                                          |
-| Vervaardiger Rol                   |                                    |                                 | Interviewer<br>film-maker                                                                                                                             |
-| Vervaardiging plaats               |                                    |                                 | X                                                                                                                                                  |
-| Vervaardiging bijzonderheden       | Taal interview: X                  | X                               |                                                                                                                                                    |
-| Datum vervaardiging                | JJJJ-MM-DD                         |                                 | JJJJ-MM-DD                                                                                                                                         |
-| Rechten                            | CC-BY-NC<br>Toestemming gebruik beeld | X                               | Ondertekening formulier toestemming gebruik interview<br>Ondertekening formulier auteursrecht professionele opnameploeg (formulier   nog in opmaak) |
-| Rechten startdatum                 | Datering formulieren               | X                               |                                                                                                                                                    |
-| Rechten verlener                   | Ondertekenaar formulier            | X                               |                                                                                                                                                    |
-| Rechten referentienummer           |                                    | X                               |                                                                                                                                                    |
-| Associatie   onderwerp             | vluchtelingen                      | X                               |                                                                                                                                                    |
-| Verwerving                         | ?                                  | ?                               |                                                                                                                                                    |
-| Verwerving plaats                  | ?                                  | ?                               |                                                                                                                                                    |
-| Verwerving datum                   | ?                                  | ?                               |                                                                                                                                                    |
-| huidige_standplaats                | collectieserver                    | X                               |                                                                                                                                                    |
-| huidige_standplaats.bijzonderheden | A:\Musea\01_IFF\IFFDB              | X                               |                                                                                                                                                    |
-| techniek                           | gefilmd                            | X                               |                                                                                                                                                    |
-| afmeting.afmeting                  | duurtijd                           | X                               |                                                                                                                                                    |
-| afmeting.waarde                    | minuten                            | X                               |                                                                                                                                                    |
-| afmeting.precisie                  | seconden                           | X                               |                                                                                                                                                    |
-| afmeting.eenheid                   | min                                | X                               |                                                                                                                                                    |
-| reproductie referentie             | coverimage                         | X                               |                                                                                                                                                    |
-| transcriptie?                      |                                    |                                 |                                                                                                                                                    |
+|        Invulfiche interview        |                                                                 |
+|:----------------------------------:|:---------------------------------------------------------------:|
+| VELD AXIELL                        | INHOUD                                                          |
+| Objectnummer                       | IFFDBXXXXXX                                                     |
+| Objectnaam                         | videofragment/geluidsfragment                                   |
+| Titel                              | Interview met Naam Achternaam, X                                |
+| Beschrijving                       |                                                                 |
+| Vervaardiger                       | Achternaam, Voornaam<br>Achternaam, Voornaam                    |
+| Vervaardiger Rol                   | interviewer<br>film-maker                                       |
+| Vervaardiging plaats               |                                                                 |
+| Vervaardiging bijzonderheden       | Taal interview: X                                               |
+| Datum vervaardiging                | JJJJ-MM-DD                                                      |
+| Rechten                            | CC-BY-NC (formulier)<br>Toestemming gebruik beeld (formulier)   |
+| Rechten startdatum                 | JJJJ-MM-DD (Datum formulier)                                    |
+| Rechten verlener                   | Achternaam, Voornaam (formulier)<br>Naam instelling (formulier) |
+| Rechten referentienummer           |                                                                 |
+| Associatie   onderwerp             |                                                                 |
+| Verwerving                         | ?                                                               |
+| Verwerving plaats                  | ?                                                               |
+| Verwerving datum                   | ?                                                               |
+| huidige_standplaats                | collectieserver                                                 |
+| huidige_standplaats.bijzonderheden | A:\Musea\01_IFF\IFFDB                                           |
+| techniek                           | gefilmd                                                         |
+| afmeting.afmeting                  | duurtijd                                                        |
+| afmeting.waarde                    | minuten                                                         |
+| afmeting.precisie                  | seconden                                                        |
+| afmeting.eenheid                   | min                                                             |
+| reproductie referentie             | coverimage                                                      |
+| transcriptie?                      |                                                                 |
