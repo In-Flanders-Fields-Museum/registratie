@@ -9,6 +9,7 @@ nav_order: 4
 |:----------------------------------:|:---------------------------------------------------------------:|
 | VELD AXIELL                        | INHOUD                                                          |
 | objectnummer                       | IFFDBXXXXXX                                                     |
+| objectcategorie                    | audiovisueel materiaal                                          |
 | objectnaam                         | videofragment/geluidsfragment                                   |
 | titel                              | Interview met Naam Achternaam, X                                |
 | beschrijving                       |                                                                 |
@@ -22,10 +23,10 @@ nav_order: 4
 | rechten.verlener                   | Achternaam, Voornaam (formulier)<br>Naam instelling (formulier) |
 | rechten.referentienummer           |                                                                 |
 | associatie.onderwerp               |                                                                 |
-| verwerving.methode                 | ?                                                               |
-| verwerving.bron                    | ?                                                               |
-| verwerving.plaats                  | ?                                                               |
-| verwerving.datum                   | ?                                                               |
+| verwerving.methode                 | In opdracht museum                                              |
+| verwerving.bron                    | In Flanders Fields Museum                                       |
+| verwerving.plaats                  |                                                                 |
+| verwerving.datum                   | JJJJ-MM-DD                                                      |
 | huidige_standplaats                | collectieserver                                                 |
 | huidige_standplaats.bijzonderheden | A:\Musea\01_IFF\IFFDB                                           |
 | techniek                           | gefilmd                                                         |
@@ -34,4 +35,4 @@ nav_order: 4
 | afmeting.precisie                  | seconden                                                        |
 | afmeting.eenheid                   | min                                                             |
 | reproductie.referentie             | coverimage                                                      |
-| transcriptie?                      |                                                                 |
+| transcriptie                       | A:\Musea\01_IFF\IFFDB\Transcripties                             |
