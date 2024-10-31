@@ -70,6 +70,7 @@ Schrijfinstructies:
 - gebruik geen punt op het einde van de titel
 
 *vb: Duits gasmasker met filter, model 1917*
+*vb: Britse troepen voor de lakenhallen in Ieper, 1916*
 
 ## **Beschrijving**
 
