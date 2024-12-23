@@ -1,3 +1,9 @@
+---
+layout: page
+title: Fysieke Kenmerken
+parent: Algemene Registratie
+nav_order: 4
+---
 
 # **Fysieke Kenmerken** 
 
