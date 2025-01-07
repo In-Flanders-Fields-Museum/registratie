@@ -69,7 +69,7 @@ Schrijfinstructies:
 - gebruik geen inleidend lidwoord, tenzij het een onderdeel is van de originele titel
 - gebruik geen punt op het einde van de titel
 - gebruik geen meerdere zinnen
-- maak de titel niet te lang, een goede richtlijn is 10 a 15 woorden
+- maak de titel niet te lang, een goede richtlijn is max. 10 a 15 woorden
 
 *vb: Duits gasmasker met filter, model 1917* <br>
 *vb: Britse troepen voor de lakenhallen in Ieper, 1916*
