@@ -80,7 +80,7 @@ Noteer de korte beschrijving van het object. Informatie uit verdiepend onderzoek
 
 Schrijfinstructies:
 - gebruik gewone zinsbouw en leestekens.
-- vul de initialen van de beschrijver aan bij beschrijving.naam
+- vul de naam van de beschrijver aan bij beschrijving.naam (Achternaam, Voornaam)
 - vul de datum van de beschrijving aan bij beschrijving.datum
 
 Indien er reeds een beschrijving aanwezig is bij het record, ontdubbel dan de beschrijving en vul aan met de nieuwe beschrijving, de datum van toevoeging van de beschrijving, alsook de initialen van de beschrijver. De beschrijving met de meest recente datum wordt online gepubliceerd.
