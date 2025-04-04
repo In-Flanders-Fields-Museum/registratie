@@ -65,7 +65,7 @@ Noteer in dit veld een relevant geassocieerd onderwerp, geografisch trefwoord of
 Bepaalde associaties zijn hiërarchisch gestructureerd en bevatten meer specifieke sub-associaties. Wanneer van toepassing wordt er gekozen om een sub-associatie toe te voegen in plaats van de hoofd-associatie. 
   -	Voorbeeld: “medische zorg” is een hoofd-associatie en is onderverdeeld in vier sub-associaties: “eerste hulpverlening”, “plastische heelkunde”, “revalidatie” en “oorlogshospitalen en hulpposten”. 
   	- Bij een foto van een militair die eerstehulpverlening toedient wordt er gekozen om “eerstehulpverlening” toe te voegen als associatie i.p.v. “medische zorg”
-  	- Indien geen enkel van de sub-associaties van toepassing is, wordt gewoon "medische zorg" toegevoegd (bv. een portretfoto van een verpleegkundige)
+  	- Indien geen enkel van de sub-associaties van toepassing is, wordt gewoon "medische zorg" toegevoegd (bv. bij een portretfoto van een verpleegkundige)
 
 Sommige associaties dienen altijd in combinatie gebruikt te worden.
   -	Zo worden aan een foto van een schoolkolonie altijd de volgende geassocieerde onderwerpen toegevoegd: “vluchtelingen”, “onderwijs”, “schoolkolonie”.
