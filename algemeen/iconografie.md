@@ -5,6 +5,17 @@ parent: Algemene Registratie
 nav_order: 5
 ---
 
+# Iconografie
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 In dit tabblad wordt geregistreerd wie of wat er op een foto, kunstwerk of ander soort object afgebeeld wordt.
 
 **Afgebeelde persoon/instelling**
