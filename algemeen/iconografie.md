@@ -7,9 +7,9 @@ nav_order: 5
 
 In dit tabblad wordt geregistreerd wie of wat er op een foto, kunstwerk of ander soort object afgebeeld wordt.
 
-## **Afgebeelde persoon/instelling**
+**Afgebeelde persoon/instelling**
 
-# *Soort naam*
+*Soort naam*
 
 Selecteer in dit veld de soort naam waarmee de afgebeelde persoon aangeduid wordt: “persoon”.
 
