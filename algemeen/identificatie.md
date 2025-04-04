@@ -69,6 +69,7 @@ Schrijfinstructies:
 - gebruik geen inleidend lidwoord, tenzij het een onderdeel is van de originele titel
 - gebruik geen punt op het einde van de titel
 - gebruik geen meerdere zinnen
+- schrijf eigennamen altijd volluit in de titel (bv. Achille Van Sassenbrouck)
 - maak de titel niet te lang, een goede richtlijn is max. 10 a 15 woorden
 
 *vb: Duits gasmasker met filter, model 1917* <br>
