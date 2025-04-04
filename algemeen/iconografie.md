@@ -2,7 +2,7 @@
 layout: page
 title: Iconografie
 parent: Algemene Registratie
-nav_order: 5
+nav_order: 4
 ---
 
 # Iconografie
