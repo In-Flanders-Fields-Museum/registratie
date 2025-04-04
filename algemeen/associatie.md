@@ -2,7 +2,7 @@
 layout: page
 title: Associaties
 parent: Algemene Registratie
-nav_order: 6
+nav_order: 5
 ---
 
 # Associaties
