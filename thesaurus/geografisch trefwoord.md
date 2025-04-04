@@ -73,7 +73,7 @@ Schoolkolonies, medische instellingen, begraafplaatsen en monumenten worden ook 
 
 Over het algemeen wordt een specifieke schoolkolonie op de volgende wijze geregistreerd: schoolkolonie "toponiem" (plaats)
   -	bv. schoolkolonie Grand Hôtel de la Plage (Les Grandes-Dalles)
-  -	indien het toponiem niet gekend is dan wordt dit aspect weggelaten uit de term (bv. schoolkolonie (Fleurier) )
+  -	indien het toponiem niet gekend is dan wordt dit aspect weggelaten uit de term (bv. schoolkolonie (Fleurier))
 
 Voor de notatie van begraafplaatsen en oorlogsmonumenten wordt de schrijfwijze van de Inventaris Onroerend Erfgoed gebruikt.
 
