@@ -48,6 +48,8 @@ Dit zijn bredere thema’s of trefwoorden die op een bepaalde manier geassocieer
 
 In geval van meerdere geassocieerde onderwerpen/geografische trefwoorden/gebeurtenissen, herhaal je dit veld voor elk onderwerp/geografische trefwoorden/gebeurtenis dat je opneemt.
 
+Raadpleeg de lijst van bestaande iconografie en associaties om na te gaan of een bepaald onderwerp thuishoort in het tabblad "Iconografie" of in het tabblad "Associaties".
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Soort onderwerp**
 
 Selecteer in dit veld de soort van het geassocieerde onderwerp. Voor onderwerpen is dit “onderwerp”. Voor gebeurtenissen is dit “gebeurtenis” en voor geografische trefwoorden is dit “geografie”.
