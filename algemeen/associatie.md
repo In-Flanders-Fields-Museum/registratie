@@ -47,6 +47,8 @@ In geval van meerdere geassocieerde personen of instellingen, herhaal je dit vel
 
 Dit zijn bredere thema’s of trefwoorden die op een bepaalde manier geassocieerd zijn met een object, foto, etc. Ook worden in dit veld relevante geografische trefwoorden en gerelateerde gebeurtenissen genoteerd.
 
+In geval van meerdere geassocieerde onderwerpen/geografische trefwoorden/gebeurtenissen, herhaal je dit veld voor elk onderwerp/geografische trefwoorden/gebeurtenis dat je opneemt.
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Soort onderwerp**
 
 Selecteer in dit veld de soort van het geassocieerde onderwerp. Voor onderwerpen is dit “onderwerp”. Voor gebeurtenissen is dit “gebeurtenis” en voor geografische trefwoorden is dit “geografie”.
@@ -69,4 +71,16 @@ Sommige associaties dienen altijd in combinatie gebruikt te worden.
   -	Zo worden aan een foto van een schoolkolonie altijd de volgende geassocieerde onderwerpen toegevoegd: “vluchtelingen”, “onderwijs”, “schoolkolonie”.
   -	Indien de specifieke schoolkolonie gekend is, wordt deze ook toegevoegd, maar als geassocieerd geografisch trefwoord.
 
-In geval van meerdere geassocieerde onderwerpen/geografische trefwoorden/gebeurtenissen, herhaal je dit veld voor elk onderwerp/geografische trefwoorden/gebeurtenis dat je opneemt.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Geografisch trefwoord**
+
+Geografische trefwoorden worden toegevoegd in het veld "onderwerp" waar relevant. Indien een geografisch trefwoord al voorkomt als vervaardigingsplaats, moet dit niet opnieuw toegevoegd worden in het tabblad “Associaties”.
+
+Specifieke begraafplaatsen, monumenten, gedenktekens, schoolkolonies, medische instellingen enz. die geografisch gesitueerd kunnen worden, worden altijd toegevoegd in het tabblad “Associaties” als een geografisch trefwoord. 
+  -	Ze zijn nooit een afgebeeld onderwerp en ook nooit een geassocieerd onderwerp, maar altijd een geassocieerd geografisch trefwoord
+  -	Bv. “Menenpoort” is een geassocieerd geografisch trefwoord, ook wanneer dit monument in zijn volledigheid afgebeeld wordt op bv. een affiche, kunstwerk, foto, object etc.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Gebeurtenis**
+
+Gebeurtenissen worden altijd toegevoegd in het tabblad “Associaties” en krijgen als soort “gebeurtenis”. 
+
+Gebeurtenissen kunnen worden gesitueerd in tijd en/of ruimte. “Kerstmis” is dus geen gebeurtenis, maar een onderwerp.  “Kerstbestand, 1914” is wel een onderwerp. De twee worden wel altijd samen toegevoegd.
