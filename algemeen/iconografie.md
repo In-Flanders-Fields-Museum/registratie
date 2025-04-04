@@ -74,3 +74,5 @@ Voorbeelden
 | aardappelen     | voedsel              |
 | accordeon       | muziek               |
 | sigaret         | rookwaren            |
+
+Raadpleeg de lijst van bestaande iconografie en associaties om na te gaan of een bepaald onderwerp thuishoort in het tabblad "Iconografie" of in het tabblad "Associaties".
