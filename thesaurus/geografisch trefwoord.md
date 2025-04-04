@@ -37,7 +37,7 @@ De meeste geografische trefwoorden zijn hiërarchisch gestructureerd. Voor Belgi
   -	deelgemeente
   -	gehucht
 
-Enkel voor België wordt er tot op het niveau van gehucht geregistreerd. Voor Frankrijk, Duitsland, de Verenigde Staten, Nederland, Ierland, Canada en het Verenigd Koninkrijk wordt tot op het niveau van de stad of het dorp geregistreerd. De hiërachie voor deze landen volgt de volgende logica: 
+Enkel voor België wordt er tot op het niveau van het gehucht geregistreerd. Voor Frankrijk, Duitsland, de Verenigde Staten, Nederland, Ierland, Canada en het Verenigd Koninkrijk wordt tot op het niveau van de stad of het dorp geregistreerd. De hiërachie voor deze landen volgt de volgende logica: 
   -	land
   -	landsdeel
   -	stad/dorp
