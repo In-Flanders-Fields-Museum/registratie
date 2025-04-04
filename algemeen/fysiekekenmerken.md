@@ -2,7 +2,7 @@
 layout: page
 title: Fysieke Kenmerken
 parent: Algemene Registratie
-nav_order: 4
+nav_order: 3
 ---
 
 # **Fysieke Kenmerken** 
