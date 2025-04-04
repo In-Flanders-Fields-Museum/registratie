@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Onderwerp
+title: Geografisch trefwoord
 parent: Thesaurus
 nav_order: 4
 ---
 
-# Onderwerp
+# Geografisch trefwoord
 
 <details open markdown="block">
   <summary>
