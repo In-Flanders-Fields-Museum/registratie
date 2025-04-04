@@ -41,6 +41,8 @@ Schrijfinstructies instellingen:
   -	Gebruik voor instellingen en organisaties de officiële schrijfwijze. Verkies de Nederlandstalige benaming voor Belgische instellingen en organisaties, tenzij de officiële naam niet Nederlandstalig is.
   -	Gebruik voor militaire entiteiten de schrijfwijze zoals ze in de Namenlijst opgenomen werd.
 
+In geval van meerdere geassocieerde personen of instellingen, herhaal je dit veld voor elk persoon/instelling die je opneemt.
+
 ## **Geassocieerd onderwerp**
 
 Dit zijn bredere thema’s of trefwoorden die op een bepaalde manier geassocieerd zijn met een object, foto, etc. Ook worden in dit veld relevante geografische trefwoorden en gerelateerde gebeurtenissen genoteerd.
@@ -57,3 +59,16 @@ Begraafplaatsen, monumenten, maar ook schoolkolonies en medische instellingen zi
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Onderwerp**
 
 Noteer in dit veld een relevant geassocieerd onderwerp, geografisch trefwoord of een relevante geassocieerde gebeurtenis.
+
+Bepaalde associaties zijn hiërarchisch gestructureerd en bevatten meer specifieke sub-associaties. Wanneer van toepassing wordt er gekozen om een sub-associatie toe te voegen in plaats van de hoofd-associatie. 
+
+*Voorbeeld*
+“medische zorg” is een hoofd-associatie en is onderverdeeld in vier sub-associaties: “eerste hulpverlening”, “plastische heelkunde”, “revalidatie” en “oorlogshospitalen en hulpposten”. 
+  -	Bij een foto van een militair die eerstehulpverlening toedient wordt er gekozen om “eerstehulpverlening” toe te voegen als associatie i.p.v. “medische zorg”
+  -	Indien geen enkel van de sub-associaties van toepassing is, wordt gewoon "medische zorg" toegevoegd (bv. een portretfoto van een verpleegkundige)
+
+Sommige associaties dienen altijd in combinatie gebruikt te worden.
+  -	Zo worden aan een foto van een schoolkolonie altijd de volgende geassocieerde onderwerpen toegevoegd: “vluchtelingen”, “onderwijs”, “schoolkolonie”.
+  -	Indien de specifieke schoolkolonie gekend is, wordt deze ook toegevoegd, maar als geassocieerd geografisch trefwoord.
+
+In geval van meerdere geassocieerde onderwerpen/geografische trefwoorden/gebeurtenissen, herhaal je dit veld voor elk onderwerp/geografische trefwoorden/gebeurtenis dat je opneemt.
