@@ -20,7 +20,6 @@ In dit tabblad worden geassocieerde personen en instellingen en onderwerpen, geb
 
 ## **Geassocieerde persoon/instelling**
 
-
 Hier worden personen of instellingen genoteerd die op een bepaalde manier gerelateerd zijn aan een collectiestuk, maar er niet de vaardiger van zijn of er niet op afgebeeld zijn. Een persoon die al toegevoegd is als afgebeelde persoon hoeft niet nogmaals genoteerd te worden als geassocieerd persoon. Ook wanneer een persoon al genoteerd werd als de vervaardiger van het collectiestuk, dan hoeft hij hier niet meer genoteerd te worden als geassocieerd persoon.
 
 Instellingen, organisaties en militaire entiteiten die op een bepaalde manier gerelateerd zijn aan een object dienen altijd als geassocieerde instelling geregistreerd te worden en niet in het tabblad iconografie.
