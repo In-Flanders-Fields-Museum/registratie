@@ -2,7 +2,7 @@
 layout: page
 title: Rechten
 parent: Algemene Registratie
-nav_order: 5
+nav_order: 6
 ---
 
 # **Rechten** 
