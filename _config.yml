@@ -3,3 +3,4 @@ description: Handleiding registratie In Flanders Fields Museum
 theme: just-the-docs
 
 url: https://in-flanders-fields-museum.github.io
+runs-on: ubuntu-22.04
