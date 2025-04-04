@@ -53,8 +53,6 @@ In geval van meerdere geassocieerde onderwerpen/geografische trefwoorden/gebeurt
 
 Selecteer in dit veld de soort van het geassocieerde onderwerp. Voor onderwerpen is dit “onderwerp”. Voor gebeurtenissen is dit “gebeurtenis” en voor geografische trefwoorden is dit “geografie”.
 
-Een gebeurtenis kan gesitueerd worden in tijd en/of ruimte. Feestdagen als Pasen, Nieuwjaar en Valentijn, maar ook meer algemene trefwoorden als “onderwaterzetting” zijn geen gebeurtenissen, maar onderwerpen. “Kerstbestand, 1914” is wel een gebeurtenis.
-
 Begraafplaatsen, monumenten, maar ook schoolkolonies en medische instellingen zijn allemaal geografische trefwoorden en krijgen als soort onderwerp “geografie”.
   -	bv. "Institut Militaire Belge des Invalides et Orphelins de la Guerre (Port-Villez)" is een geografisch trefwoord en geen geassocieerde instelling.
 
@@ -83,4 +81,4 @@ Specifieke begraafplaatsen, monumenten, gedenktekens, schoolkolonies, medische i
 
 Gebeurtenissen worden altijd toegevoegd in het tabblad “Associaties” en krijgen als soort “gebeurtenis”. 
 
-Gebeurtenissen kunnen worden gesitueerd in tijd en/of ruimte. “Kerstmis” is dus geen gebeurtenis, maar een onderwerp.  “Kerstbestand, 1914” is wel een onderwerp. De twee worden wel altijd samen toegevoegd.
+Een gebeurtenis kan gesitueerd worden in tijd en/of ruimte. Feestdagen als Pasen, Nieuwjaar en Valentijn, maar ook meer algemene trefwoorden als “onderwaterzetting” zijn geen gebeurtenissen, maar onderwerpen. “Kerstbestand, 1914” is wel een gebeurtenis.
