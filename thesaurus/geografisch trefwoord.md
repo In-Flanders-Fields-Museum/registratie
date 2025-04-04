@@ -69,6 +69,16 @@ Wanneer er kans is op verwarring, wordt ook voor Belgische plaatsnamen het boven
 
 ## **Toponiemen**
 
-Schoolkolonies en medische instellingen worden ook geregistreerd als geografisch trefwoord.
+Schoolkolonies, medische instellingen, begraafplaatsen en monumenten worden ook geregistreerd als geografisch trefwoord.
 
+Over het algemeen wordt een specifieke schoolkolonie op de volgende wijze geregistreerd: schoolkolonie "toponiem" (plaats)
+  -	bv. schoolkolonie Grand Hôtel de la Plage (Les Grandes-Dalles)
+  -	indien het toponiem niet gekend is dan wordt dit aspect weggelaten uit de term (bv. schoolkolonie (Fleurier) )
 
+Voor de notatie van begraafplaatsen en oorlogsmonumenten wordt de schrijfwijze van de Inventaris Onroerend Erfgoed gebruikt.
+
+Dit soort toponiemen heeft een eigen hiërarchische logica, die afwijkt van de andere geografische trefwoorden. Ze worden niet ondergebracht onder de plaats waar ze zich bevinden, maar onder hun eigen hiërarchische structuur 
+  -	bv. militaire begraafplaatsen > Britse militaire begraafplaatsen
+  -	bv. monumenten en gedenktekens > Gedenkzuil Royal Household Cavalry
+  -	bv. schoolkolonie > schoolkolonie Belgische School (Nantes)
+  -	bv. oorlogshospitalen en hulpposten > hulppost > chirurgische voorpost Sint-Jansmolen (Lampernisse)
