@@ -20,13 +20,13 @@ In dit tabblad wordt geregistreerd wie of wat er op een foto, kunstwerk of ander
 
 **Afgebeelde persoon/instelling**
 
-*Soort naam*
+ *Soort naam*
 
 Selecteer in dit veld de soort naam waarmee de afgebeelde persoon aangeduid wordt: “persoon”.
 
 Enkel personen worden als afgebeelde persoon in het tabblad “Iconografie” geregistreerd. Een instelling of een volledige familie kan geen iconografie zijn, maar worden geregistreerd in het tabblad “Associaties” als geassocieerde persoon/instelling.
 
-*Naam*
+ *Naam*
 
 Noteer de officiële of meest gebruikte naam of voorna(a)m(en) van de perso(o)n(en) die op het object wordt/worden afgebeeld. In geval van meerdere afgebeelde personen, herhaal je dit veld voor elke naam die je opneemt. Eerst vermeld je de afgebeelde personen die op de voorgrond staan, daarna de afgebeelde personen die op de achtergrond staan.
 
@@ -40,11 +40,11 @@ vb. Van Sassenbrouck, Achille
 
 **Afgebeeld onderwerp**
 
-*Soort onderwerp*
+ *Soort onderwerp*
 
 Selecteer in dit veld de soort van het onderwerp dat afgebeeld wordt op een object. Dit is altijd “onderwerp”.
 
-*Onderwerp*
+ *Onderwerp*
 
 Noteer in dit veld het afgebeelde onderwerp. Dit afgebeelde onderwerp kan een object, symbool, (mythologisch) dier, voertuig, menselijke rollen, ... zijn.
 
