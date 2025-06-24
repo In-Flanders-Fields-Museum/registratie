@@ -22,7 +22,7 @@ nav_order: 4
 | rechten.referentienummer           |                                                                 |
 | associatie.onderwerp               |                                                                 |
 | verwerving.methode                 | aankoop/schenking                                               |
-| verwerving.bron                    | Achternaam, Voornaam (formulier)<br>Naam instelling             |
+| verwerving.bron                    | Achternaam, Voornaam<br>Naam instelling                         |
 | verwerving.plaats                  |                                                                 |
 | verwerving.datum                   | JJJJ-MM-DD                                                      |
 | huidige_standplaats                | collectieserver                                                 |
