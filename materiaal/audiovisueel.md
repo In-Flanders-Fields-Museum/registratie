@@ -5,9 +5,8 @@ parent: Materiaalspecifieke Registratie
 nav_order: 4
 ---
 
-|        Invulfiche interview        |                                                                 |
+|        VELD AXIELL           |    INHOUD                                                                |
 |:----------------------------------:|:---------------------------------------------------------------:|
-| VELD AXIELL                        | INHOUD                                                          |
 | objectnummer                       | IFFDBXXXXXX                                                     |
 | objectcategorie                    | audiovisueel materiaal                                          |
 | objectnaam                         | videofragment/geluidsfragment                                   |
