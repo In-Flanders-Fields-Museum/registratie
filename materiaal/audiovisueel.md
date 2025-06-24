@@ -13,7 +13,7 @@ nav_order: 4
 | titel                              | zie [titel](https://in-flanders-fields-museum.github.io/registratie/algemeen/identificatie.html#titel).<br>Indien het gaat over een interview kiezen we volgende titel: Interview met Naam Achternaam, X (aanvullende info)                               |
 | beschrijving                       | zie [beschrijving](https://in-flanders-fields-museum.github.io/registratie/algemeen/identificatie.html#beschrijving)                                                                |
 | vervaardiger                       | Achternaam, Voornaam<br>Achternaam, Voornaam                    |
-| vervaardiger.rol                   | Kies de geschikte rol. Volgende rollen zijn reeds in gebruik bij audiovisueel materiaal:<br><br>interviewer<br>film-maker<br>kunstenaar<br>audiokunstenaar<br>componist<br>klankproducer<br>filmeditor                     |
+| vervaardiger.rol                   | Kies de geschikte rol. Volgende rollen zijn reeds in gebruik bij audiovisueel materiaal:<br>interviewer<br>film-maker<br>kunstenaar<br>audiokunstenaar<br>componist<br>klankproducer<br>filmeditor                     |
 | vervaardiging.plaats               |                                                                 |
 | vervaardiging.datum.begin/eind     | JJJJ-MM-DD                                                      |
 | rechten.type                       | CC-BY-NC (formulier)<br>Toestemming gebruik beeld (formulier)   |
