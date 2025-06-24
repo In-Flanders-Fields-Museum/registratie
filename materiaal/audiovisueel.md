@@ -14,7 +14,7 @@ nav_order: 4
 | titel                              | Interview met Naam Achternaam, X                                |
 | beschrijving                       |                                                                 |
 | vervaardiger                       | Achternaam, Voornaam<br>Achternaam, Voornaam                    |
-| vervaardiger.rol                   | interviewer<br>film-maker                                       |
+| vervaardiger.rol                   | Kies de geschikte rol. Volgende rollen zijn reeds in gebruik bij audiovisueel materiaal.<br><br>interviewer<br>film-maker<br>kunstenaar<br>audiokunstenaar<br>componist<br>klankproducer<br>filmeditor                     |
 | vervaardiging.plaats               |                                                                 |
 | vervaardiging.bijzonderheden       | Taal interview: X                                               |
 | vervaardiging.datum.begin/eind     | JJJJ-MM-DD                                                      |
