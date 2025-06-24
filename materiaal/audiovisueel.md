@@ -10,7 +10,7 @@ nav_order: 4
 | objectnummer                       | IFFDBXXXXXX                                                     |
 | objectcategorie                    | audiovisueel materiaal                                          |
 | objectnaam                         | videofragment/geluidsfragment                                   |
-| titel                              | zie [titel](https://in-flanders-fields-museum.github.io/registratie/algemeen/identificatie.html#titel) Indien het gaat over een interview kiezen we volgende titel: Interview met Naam Achternaam, X (aanvullende info)                               |
+| titel                              | zie [titel](https://in-flanders-fields-museum.github.io/registratie/algemeen/identificatie.html#titel).<br>Indien het gaat over een interview kiezen we volgende titel: Interview met Naam Achternaam, X (aanvullende info)                               |
 | beschrijving                       | zie [beschrijving](https://in-flanders-fields-museum.github.io/registratie/algemeen/identificatie.html#beschrijving)                                                                |
 | vervaardiger                       | Achternaam, Voornaam<br>Achternaam, Voornaam                    |
 | vervaardiger.rol                   | Kies de geschikte rol. Volgende rollen zijn reeds in gebruik bij audiovisueel materiaal:<br><br>interviewer<br>film-maker<br>kunstenaar<br>audiokunstenaar<br>componist<br>klankproducer<br>filmeditor                     |
