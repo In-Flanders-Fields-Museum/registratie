@@ -49,5 +49,12 @@ Indien één vervaardiger meerdere rollen vervult (bv. zowel ontwerper als drukk
 
 ## **Datum Vervaardiging**
 
+Jaar: YYYY (bijv. 1914)
+Jaar en maand: YYYY-MM (bijv. 1914-08)
+Volledige datum: YYYY-MM-DD (bijv. 1914-08-04)
+
+Dateringen voor Christus - Gebruik een minteken vóór het jaartal:
+-0500 = 500 v.Chr.
+-12000 = 12.000 v.Chr.
 
 ## **Periode Vervaardiging**
