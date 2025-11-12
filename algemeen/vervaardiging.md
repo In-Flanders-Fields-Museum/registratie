@@ -42,6 +42,7 @@ Schrijfinstructies:
 
 ## **Rol Vervaardiger**
 
+Indien één vervaardiger meerdere rollen vervult (bv. zowel ontwerper als drukker), dan wordt een occurence toegevoegd en de naam vervaardiger herhaalt met een andere rol.
 
 ## **Plaats Vervaardiging**
 
