@@ -82,9 +82,11 @@ Noteer de korte beschrijving van het object. Informatie uit verdiepend onderzoek
 
 Schrijfinstructies:
 - gebruik gewone zinsbouw en leestekens.
-- vul de naam van de beschrijver aan bij beschrijving.naam (Achternaam, Voornaam)
-- vul de datum van de beschrijving aan bij beschrijving.datum
+- schrijf eigennamen altijd volluit.
+- Militaire entiteiten worden geschreven zoals deze geschreven staan in de Namenlijst. 
 
 Indien er reeds een beschrijving aanwezig is bij het record, ontdubbel dan de beschrijving en vul aan met de nieuwe beschrijving, de datum van toevoeging van de beschrijving, alsook de naam van de beschrijver. De beschrijving met de meest recente datum wordt online gepubliceerd.
 
+- vul de naam van de beschrijver aan bij beschrijving.naam (Achternaam, Voornaam)
+- vul de datum van de beschrijving aan bij beschrijving.datum (YYYY-MM-DD)
 
