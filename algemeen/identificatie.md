@@ -47,9 +47,9 @@ Noteer, indien mogelijk, met één term om welk soort object het gaat. Een objec
 Zo is een "spaarpot" een objectnaam voor een spaarvarken en niet "varken", wat het afgebeeld onderwerp van het object is.
 
 Schrijfinstructies:
-- gebruik geen hoofdletter
-- gebruik geen meervouden
-- gebruik geen verkleinwoorden <br/>
+- Gebruik geen hoofdletter.
+- Gebruik geen meervouden.
+- Gebruik geen verkleinwoorden. <br/>
 (tenzij de term enkel voorkomt met hoofdletter, als meervoud of als verkleinwoord)
 
 Thesaurus:
@@ -65,13 +65,13 @@ Noteer hier de originele, populaire en/of toegekende titel.
 - Toegekende titel: de titel die de registrator aan het object toekent. Dit is een korte publieksgerichte beschrijving van het object. Een toegekende titel mag niet te lang zijn (richtlijn is 10 à 15 woorden).
 
 Schrijfinstructies:
-- begin de titel met een hoofdletter, tenzij anders vermeld op het object
-- gebruik geen inleidend lidwoord, tenzij het een onderdeel is van de originele titel
-- gebruik geen punt op het einde van de titel
-- gebruik geen meerdere zinnen
-- schrijf eigennamen altijd volluit in de titel (bv. Achille Van Sassenbrouck)
-- maak de titel niet te lang, een goede richtlijn is max. 10 a 15 woorden
-- Neem voor militaire entiteiten de schrijfwijze over zoals in de Namenlijst
+- Begin de titel met een hoofdletter, tenzij anders vermeld op het object.
+- Gebruik geen inleidend lidwoord, tenzij het een onderdeel is van de originele titel.
+- Gebruik geen punt op het einde van de titel.
+- Gebruik geen meerdere zinnen.
+- Schrijf eigennamen altijd volluit in de titel (bv. Achille Van Sassenbrouck).
+- Maak de titel niet te lang, een goede richtlijn is max. 10 a 15 woorden.
+- Neem voor militaire entiteiten de schrijfwijze over zoals in de Namenlijst.
 
 *vb: Duits gasmasker met filter, model 1917* <br>
 *vb: Britse troepen voor de lakenhallen in Ieper, 1916*
@@ -81,9 +81,9 @@ Schrijfinstructies:
 Noteer de korte beschrijving van het object. Informatie uit verdiepend onderzoek kan hier toegevoegd worden.
 
 Schrijfinstructies:
-- gebruik gewone zinsbouw en leestekens.
-- schrijf eigennamen altijd volluit.
-- Militaire entiteiten worden geschreven zoals deze geschreven staan in de Namenlijst. 
+- Gebruik gewone zinsbouw en leestekens.
+- Schrijf eigennamen altijd volluit.
+- Neem voor militaire entiteiten de schrijfwijze over zoals in de Namenlijst.
 
 Indien er reeds een beschrijving aanwezig is bij het record, ontdubbel dan de beschrijving en vul aan met de nieuwe beschrijving, de datum van toevoeging van de beschrijving, alsook de naam van de beschrijver. De beschrijving met de meest recente datum wordt online gepubliceerd.
 
