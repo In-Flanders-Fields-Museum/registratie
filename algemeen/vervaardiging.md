@@ -63,8 +63,8 @@ Noteer een datering als volgt: <br>
 - Volledige datum: YYYY-MM-DD (bijv. 1914-08-04) <br>
 <br>
 Dateringen voor Christus: Gebruik een minteken vóór het jaartal: <br>
-- -0500 = 500 v.Chr. <br>
-- -12000 = 12.000 v.Chr. <br>
+-0500 = 500 v.Chr. <br>
+-12000 = 12.000 v.Chr. <br>
 <br>
 Indien de datering een inschatting is, vul **circa** aan bij datum precisie<br>
 Gaat het om een datumbereik, vul **voor** en **na** aan bij datum precisie<br>
