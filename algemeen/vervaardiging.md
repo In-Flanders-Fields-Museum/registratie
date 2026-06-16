@@ -42,7 +42,7 @@ Schrijfinstructies:
 
 ## **Rol Vervaardiger**
 
-Kies een rol uit de opties die beschikbaar zijn in de thesaurus.
+Kies een **rol** uit de opties die beschikbaar zijn in de thesaurus.
 Indien één vervaardiger meerdere rollen vervult (bv. zowel ontwerper als drukker), dan wordt een occurence toegevoegd en de naam vervaardiger herhaalt met een andere rol.<br>
 
 vb: <img width="409" height="196" alt="image" src="https://github.com/user-attachments/assets/80bc8097-fe78-4633-aa02-5ce1f8036d83" />
@@ -54,19 +54,20 @@ vb: <img width="409" height="196" alt="image" src="https://github.com/user-attac
 
 ## **Datum Vervaardiging**
 
-Indien het gaat om 1 specifieke datum: vul enkel datum begin aan. Indien het gaat om een tijdsbereik (inschatting), vul datum begin en eind aan.<br>
+Indien het gaat om 1 specifieke datum: vul enkel **datum begin** aan. Indien het gaat om een tijdsbereik (inschatting), vul **datum begin en eind** aan.<br>
 <br>
-Noteer een jaartal als volgt: <br>
+Schrijfinstructies:
+Noteer een datering als volgt: <br>
 - Jaar: YYYY (bijv. 1914) <br>
 - Jaar en maand: YYYY-MM (bijv. 1914-08) <br>
 - Volledige datum: YYYY-MM-DD (bijv. 1914-08-04) <br>
 <br>
 Dateringen voor Christus: Gebruik een minteken vóór het jaartal: <br>
--0500 = 500 v.Chr. <br>
--12000 = 12.000 v.Chr. <br>
+- -0500 = 500 v.Chr. <br>
+- -12000 = 12.000 v.Chr. <br>
 <br>
-Indien de datering een inschatting is, vul circa aan bij datum precisie<br>
-Gaat het om een datumbereik, vul voor en na aan bij datum precisie<br>
+Indien de datering een inschatting is, vul **circa** aan bij datum precisie<br>
+Gaat het om een datumbereik, vul **voor** en **na** aan bij datum precisie<br>
 <br>
 vb: <img width="680" height="202" alt="image" src="https://github.com/user-attachments/assets/f152a024-5ae8-426e-b266-336a4ca2fa06" /><br>
 vb: <img width="719" height="207" alt="image" src="https://github.com/user-attachments/assets/8773cca1-8522-4bb3-b230-a57debe664bf" /><br>
