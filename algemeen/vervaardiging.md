@@ -57,9 +57,9 @@ vb: <img width="409" height="196" alt="image" src="https://github.com/user-attac
 Indien het gaat om 1 specifieke datum: vul enkel datum begin aan. Indien het gaat om een tijdsbereik (inschatting), vul datum begin en eind aan.<br>
 <br>
 Noteer een jaartal als volgt: <br>
-Jaar: YYYY (bijv. 1914) <br>
-Jaar en maand: YYYY-MM (bijv. 1914-08) <br>
-Volledige datum: YYYY-MM-DD (bijv. 1914-08-04) <br>
+- Jaar: YYYY (bijv. 1914) <br>
+- Jaar en maand: YYYY-MM (bijv. 1914-08) <br>
+- Volledige datum: YYYY-MM-DD (bijv. 1914-08-04) <br>
 <br>
 Dateringen voor Christus: Gebruik een minteken vóór het jaartal: <br>
 -0500 = 500 v.Chr. <br>
