@@ -56,7 +56,6 @@ vb: <img width="409" height="196" alt="image" src="https://github.com/user-attac
 
 Indien het gaat om 1 specifieke datum: vul enkel **datum begin** aan, de einddatum wordt automatisch overgenomen. Indien het gaat om een tijdsbereik (inschatting), vul **datum begin en eind** aan.<br>
 <br>
-<br>
 Schrijfinstructies:<br>
 Noteer een datering als volgt: <br>
 - Jaar: YYYY (vb: 1914) <br>
