@@ -54,8 +54,6 @@ vb: <img width="409" height="196" alt="image" src="https://github.com/user-attac
 
 ## **Datum Vervaardiging**
 
-Indien het gaat om 1 specifieke datum: vul enkel **datum begin** aan, de einddatum wordt automatisch overgenomen. Indien het gaat om een tijdsbereik (inschatting), vul **datum begin en eind** aan.<br>
-<br>
 Schrijfinstructies:<br>
 Noteer een datering als volgt: <br>
 - Jaar: YYYY (vb: 1914) <br>
@@ -66,8 +64,9 @@ Dateringen voor Christus: Gebruik een minteken vóór het jaartal: <br>
 vb: 500 v.Chr. = -0500 <br>
 vb: 12.000 v.Chr. = -12000 <br>
 <br>
-- Indien de datering een **inschatting** is, vul **circa** aan bij datum precisie<br>
-- Gaat het om een **datumbereik**, vul **voor en na** aan bij datum precisie<br>
+- Indien het gaat om 1 specifieke datum: vul enkel **datum begin** aan, de einddatum wordt automatisch overgenomen.
+- Indien het gaat om een tijdsbereik (inschatting), vul **datum begin en eind** aan. Vul **voor en na** aan bij datum precisie<br>
+- Indien de datering een **inschatting** is, vul **circa** aan bij datum precisie. Verwijder de herhaalde einddatum.<br>
 - Indien je enkel weet dat het object van **voor of na** een bepaalde datum is, vul **datum begin** aan, verwijder de herhaling bij datum eind en gebruik **'voor' of 'na'** als precisie bij de begindatum.<br>
 <br>
 vb:<br> <img width="686" height="210" alt="image" src="https://github.com/user-attachments/assets/58c3a7b2-ae68-4be1-b736-13489ef365a1" /><br>
