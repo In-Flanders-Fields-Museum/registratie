@@ -69,7 +69,7 @@ vb: 12.000 v.Chr. = -12000 <br>
 <br>
 - Indien de datering een **inschatting** is, vul **circa** aan bij datum precisie<br>
 - Gaat het om een **datumbereik**, vul **voor en na** aan bij datum precisie<br>
-- Indien je enkel weet dat het object van **voor of na** een bepaalde datum is, vul **datum begin** aan, verwijder de herhaling bij datum eind en gebruik **'voor' of 'na'** als precisie bij de begindatum.
+- Indien je enkel weet dat het object van **voor of na** een bepaalde datum is, vul **datum begin** aan, verwijder de herhaling bij datum eind en gebruik **'voor' of 'na'** als precisie bij de begindatum.<br>
 <br>
 vb:<br> <img width="680" height="202" alt="image" src="https://github.com/user-attachments/assets/f152a024-5ae8-426e-b266-336a4ca2fa06" /><br>
 vb:<br> <img width="719" height="207" alt="image" src="https://github.com/user-attachments/assets/8773cca1-8522-4bb3-b230-a57debe664bf" /><br>
