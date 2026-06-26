@@ -64,10 +64,10 @@ Dateringen voor Christus: Gebruik een minteken vóór het jaartal: <br>
 vb: 500 v.Chr. = -0500 <br>
 vb: 12.000 v.Chr. = -12000 <br>
 <br>
-- Indien het gaat om 1 specifieke datum: vul enkel **datum begin** aan, de einddatum wordt automatisch overgenomen.
+- Indien het gaat om 1 specifieke datum: vul **datum begin** aan, de einddatum wordt automatisch overgenomen. Beide data blijven behouden.<br>
 - Indien het gaat om een tijdsbereik (inschatting), vul **datum begin en eind** aan. Vul **voor en na** aan bij datum precisie<br>
 - Indien de datering een **inschatting** is, vul **circa** aan bij datum precisie. Verwijder de herhaalde einddatum.<br>
-- Indien je enkel weet dat het object van **voor of na** een bepaalde datum is, vul **datum begin** aan, verwijder de herhaling bij datum eind en gebruik **'voor' of 'na'** als precisie bij de begindatum.<br>
+- Indien je enkel weet dat het object van **voor of na** een bepaalde datum is, vul **datum begin** aan en gebruik **'voor' of 'na'** bij datum precisie. Verwijder de herhaalde einddatum<br>
 <br>
 vb:<br> <img width="686" height="210" alt="image" src="https://github.com/user-attachments/assets/58c3a7b2-ae68-4be1-b736-13489ef365a1" /><br>
 vb:<br> <img width="680" height="202" alt="image" src="https://github.com/user-attachments/assets/f152a024-5ae8-426e-b266-336a4ca2fa06" /><br>
