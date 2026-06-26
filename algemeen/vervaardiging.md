@@ -59,8 +59,7 @@ Noteer een datering als volgt: <br>
 - Jaar: YYYY (vb: 1914) <br>
 - Jaar en maand: YYYY-MM (vb: 1914-08) <br>
 - Volledige datum: YYYY-MM-DD (vb: 1914-08-04) <br>
-<br>
-Dateringen voor Christus: Gebruik een minteken vóór het jaartal: <br>
+- Dateringen voor Christus: Gebruik een minteken vóór het jaartal: <br>
 vb: 500 v.Chr. = -0500 <br>
 vb: 12.000 v.Chr. = -12000 <br>
 <br>
