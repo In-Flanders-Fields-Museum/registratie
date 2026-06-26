@@ -54,7 +54,7 @@ vb: <img width="409" height="196" alt="image" src="https://github.com/user-attac
 
 ## **Datum Vervaardiging**
 
-Indien het gaat om 1 specifieke datum: vul enkel **datum begin** aan. Indien het gaat om een tijdsbereik (inschatting), vul **datum begin en eind** aan.<br>
+Indien het gaat om 1 specifieke datum: vul enkel **datum begin** aan, de einddatum wordt automatisch overgenomen. Indien het gaat om een tijdsbereik (inschatting), vul **datum begin en eind** aan.<br>
 <br>
 Schrijfinstructies:<br>
 Noteer een datering als volgt: <br>
@@ -69,8 +69,10 @@ Dateringen voor Christus - Gebruik een minteken vóór het jaartal: <br>
 <br>
 Indien de datering een inschatting is, vul **circa** aan bij datum precisie<br>
 Gaat het om een datumbereik, vul **voor** en **na** aan bij datum precisie<br>
+Indien je enkel weet dat het object van voor een bepaalde datum is, vul **datum begin** aan, verwijder de herhaling bij datum eind en gebruik 'voor' als precisie bij de begindatum.
 <br>
 vb: <img width="680" height="202" alt="image" src="https://github.com/user-attachments/assets/f152a024-5ae8-426e-b266-336a4ca2fa06" /><br>
 vb: <img width="719" height="207" alt="image" src="https://github.com/user-attachments/assets/8773cca1-8522-4bb3-b230-a57debe664bf" /><br>
+vb: <img width="678" height="212" alt="image" src="https://github.com/user-attachments/assets/6e39a0be-61ac-4904-95a1-6db62adb2aae" />
 
 ## **Periode Vervaardiging**
