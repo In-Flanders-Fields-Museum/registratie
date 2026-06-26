@@ -56,6 +56,7 @@ vb: <img width="409" height="196" alt="image" src="https://github.com/user-attac
 
 Indien het gaat om 1 specifieke datum: vul enkel **datum begin** aan, de einddatum wordt automatisch overgenomen. Indien het gaat om een tijdsbereik (inschatting), vul **datum begin en eind** aan.<br>
 <br>
+<br>
 Schrijfinstructies:<br>
 Noteer een datering als volgt: <br>
 - Jaar: YYYY (bijv. 1914) <br>
@@ -65,6 +66,7 @@ Noteer een datering als volgt: <br>
 Dateringen voor Christus - Gebruik een minteken vóór het jaartal: <br>
 - 500 v.Chr. = -0500 <br>
 - 12.000 v.Chr. = -12000 <br>
+<br>
 <br>
 Indien de datering een **inschatting** is, vul **circa** aan bij datum precisie<br>
 Gaat het om een **datumbereik**, vul **voor en na** aan bij datum precisie<br>
