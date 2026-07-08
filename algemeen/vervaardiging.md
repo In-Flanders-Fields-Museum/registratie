@@ -74,3 +74,17 @@ vb:<br> <img width="719" height="207" alt="image" src="https://github.com/user-a
 vb:<br> <img width="678" height="212" alt="image" src="https://github.com/user-attachments/assets/6e39a0be-61ac-4904-95a1-6db62adb2aae" /><br>
 
 ## **Periode Vervaardiging**
+
+Wanneer een datering gekend is, wordt een bovenliggende periode toegevoegd. Volgende periodes zijn in gebruik:<br>
+- Eeuwen: wordt gebruikt t.e.m. de 19de eeuw<br>
+- Deccenia: worden gebruikt vanaf de 20ste eeuw<br>
+- Afzonderlijke periodes: Eerste Wereldoorlog & Tweede Wereldoorlog<br>
+
+Indien een tijdsbereik meerdere periodes bestrijkt, kunnen meerdere periodes toegevoegd worden.<br>
+<br>
+vb: 
+<img width="1192" height="147" alt="image" src="https://github.com/user-attachments/assets/6adbe1f2-c9ed-4b43-8dbb-414c38f0ed22" />
+vb:
+<img width="1184" height="175" alt="image" src="https://github.com/user-attachments/assets/44fafb6b-78eb-4297-b7d9-7088b3260350" />
+vb:
+<img width="1176" height="180" alt="image" src="https://github.com/user-attachments/assets/7cae6a92-f8cd-457f-b299-efe3a8f5ce27" />
