@@ -16,7 +16,7 @@ nav_order: 4
 | vervaardiger.rol                   | Kies de geschikte rol. Volgende rollen zijn reeds in gebruik bij audiovisueel materiaal:<br>interviewer<br>film-maker<br>kunstenaar<br>audiokunstenaar<br>componist<br>klankproducer<br>filmeditor                     |
 | vervaardiging.plaats               |                                                                 |
 | vervaardiging.datum.begin/eind     | JJJJ-MM-DD                                                      |
-| rechten.type                       | Auteursrecht: <br> - CC-BY-NC (formulier) <br>- CC0 (eigen productie)<br>Portretrecht: <br>-Toestemming gebruik beeld (formulier) : Geen geldend portretrecht<br> Geen overeenkomst: geldend portretrecht  |
+| rechten.type                       | **Auteursrecht**: <br> - CC-BY-NC (formulier) <br>- CC0 (eigen productie)<br>**Portretrecht**: <br>-Toestemming gebruik beeld (formulier) : Geen geldend portretrecht<br> Geen overeenkomst: geldend portretrecht  |
 | rechten.startdatum                 | JJJJ-MM-DD (Datum formulier)                                    |
 | rechten.verlener                   | Achternaam, Voornaam (formulier)<br>Naam instelling (formulier) |
 | rechten.referentienummer           | zie bestandsnaamgeving formulier : I:\12_Musea\05_Collectie\07_Ontsluiting\05_Rechten\IFF\03_OVEREENKOMSTEN |
