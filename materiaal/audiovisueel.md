@@ -17,9 +17,11 @@ nav_order: 4
 | vervaardiger                       | Achternaam, Voornaam                   |
 | vervaardiger.rol                   | Kies de geschikte rol. Volgende rollen zijn reeds in gebruik bij audiovisueel materiaal:<br>interviewer<br>film-maker<br>kunstenaar<br>audiokunstenaar<br>componist<br>klankproducer<br>filmeditor                     |
 | vervaardiging.plaats               | zie [vervaardiging plaats](https://in-flanders-fields-museum.github.io/registratie/algemeen/vervaardiging.html#plaats)|
+| vervaardiging.periode              | zie [vervaardiging periode]([https://in-flanders-fields-museum.github.io/registratie/algemeen/vervaardiging.html#datum-vervaardiging](https://in-flanders-fields-museum.github.io/registratie/algemeen/vervaardiging.html#periode-vervaardiging))<br>JJJJ-MM-DD|
 | vervaardiging.datum.begin/eind     | zie [vervaardiging datum](https://in-flanders-fields-museum.github.io/registratie/algemeen/vervaardiging.html#datum-vervaardiging)<br>JJJJ-MM-DD|
 | rechten.type                       | **Auteursrecht**: <br> - CC-BY-NC (formulier) <br>- CC0 (eigen productie)<br>**Portretrecht**: <br>-Toestemming gebruik beeld (formulier): Geen geldend portretrecht<br> Geen overeenkomst: Geldend portretrecht  |
 | rechten.startdatum                 | JJJJ-MM-DD (Datum formulier)                                    |
+| rechten.machtigingsstatus          | toegewezen                                                      |
 | rechten.verlener                   | Achternaam, Voornaam (formulier)<br>Naam instelling (formulier) |
 | rechten.referentienummer           | zie bestandsnaamgeving formulier : I:\12_Musea\05_Collectie\07_Ontsluiting\05_Rechten\IFF\03_OVEREENKOMSTEN |
 | associatie.onderwerp               |                                                                 |
