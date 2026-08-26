@@ -34,6 +34,6 @@ nav_order: 4
 | techniek                           | gefilmd                                                         |
 | afmeting.afmeting                  | duurtijd                                                        |
 | afmeting.waarde                    | minuten                                                         |
-| afmeting.precisie                  | seconden                                                        |
 | afmeting.eenheid                   | min                                                             |
+| afmeting.bijzonderheden            | UU:MM:SS<br> vb. 01:09:35 of 35:10                              |
 | reproductie.referentie             | coverimage                                                      |
