@@ -7,7 +7,7 @@ nav_order: 4
 
 |        VELD AXIELL           |    INHOUD                                                                |
 |:----------------------------------:|:---------------------------------------------------------------:|
-| objectnummer                       | IFFDBXXXXXX/IFFDBXXXXX.XX                                       |
+| objectnummer                       | IFFDBXXXXXX<br>IFFDBXXXXX.XX                                       |
 | objectcategorie                    | audiovisueel materiaal                                          |
 | objectnaam                         | video-opname/geluidsopname/interview                            |
 | titel                              | zie [titel](https://in-flanders-fields-museum.github.io/registratie/algemeen/identificatie.html#titel).<br>Indien het gaat over een interview kiezen we volgende titel: Interview met Naam Achternaam, X (aanvullende info)                               |
