@@ -5,11 +5,11 @@ parent: Materiaalspecifieke Registratie
 nav_order: 4
 ---
 
-|        VELD AXIELL           |    INHOUD                                                                |
+|        VELD AXIELL                 |    INHOUD                                                       |
 |:----------------------------------:|:---------------------------------------------------------------:|
-| objectnummer                       | IFFDBXXXXXX<br>IFFDBXXXXX.XX                                       |
+| objectnummer                       | IFFDBXXXXXX<br>IFFDBXXXXX.XX                                    |
 | objectcategorie                    | audiovisueel materiaal                                          |
-| objectnaam                         | video-opname/geluidsopname/interview                            |
+| objectnaam                         | video-opname<br>geluidsopname<br>interview                      |
 | titel                              | zie [titel](https://in-flanders-fields-museum.github.io/registratie/algemeen/identificatie.html#titel).<br>Indien het gaat over een interview kiezen we volgende titel: Interview met Naam Achternaam, X (aanvullende info)                               |
 | beschrijving                       | zie [beschrijving](https://in-flanders-fields-museum.github.io/registratie/algemeen/identificatie.html#beschrijving)                                                                |
 | vervaardiger                       | Achternaam, Voornaam                   |
